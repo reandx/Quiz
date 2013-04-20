@@ -16,9 +16,9 @@ public class RegistrationActivity extends Activity {
 
 		setContentView(R.layout.registration);
 
-		Button btnLogin = (Button) findViewById(R.id.btnRegistration);
+		Button btnRegistration = (Button) findViewById(R.id.btnRegistration);
 
-		btnLogin.setOnClickListener(new OnClickListener() {
+		btnRegistration.setOnClickListener(new OnClickListener() {
 			@Override
 			public void onClick(View v1) {
 				startActivity(new Intent(RegistrationActivity.this,

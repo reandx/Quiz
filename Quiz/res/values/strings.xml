@@ -11,5 +11,7 @@
     <string name="Save">Kaydet</string>
     <string name="Registration">Yeni Kayıt</string>
     <string name="Login">Giriş</string>
+    <string name="Okay">Tamam</string>
+    <string name="Categories">Kategoriler</string>
 
 </resources>

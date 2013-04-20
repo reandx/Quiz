@@ -24,11 +24,9 @@
         </activity>
         <activity android:name="com.reandx.quiz.RegistrationActivity" >
         </activity>
-        
-         <activity android:name="com.reandx.quiz.LoginActivity" >
+        <activity android:name="com.reandx.quiz.LoginActivity" >
         </activity>
-        
-             <activity android:name="com.reandx.quiz.SelectCategoryActivity" >
+        <activity android:name="com.reandx.quiz.SelectCategoryActivity" >
         </activity>
     </application>
 

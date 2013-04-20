@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Quiz</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Name">Ad</string>
+    <string name="Surname">Soyad</string>
+    <string name="e_mail">E_mail</string>
+    <string name="Password">Şifre</string>
+    <string name="Save">Kaydet</string>
+    <string name="Registration">Yeni Kayıt</string>
+    <string name="Login">Giriş</string>
+
+</resources>
